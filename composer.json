@@ -1,0 +1,17 @@
+{
+    "name": "malf88/qakit-teste",
+    "description": "Módulo para teste",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Malf88\\QakitTeste\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marco Aurélio Lima Fernandes"
+        }
+    ],
+    "require": {}
+}
