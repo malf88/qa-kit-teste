@@ -1,6 +1,6 @@
 <?php
 
-namespace Provider;
+namespace Malf88\QakitTeste\Provider;
 
 use App\Application\Abstracts\ServiceProviderAbstract;
 use App\Domain\Projects\Business\ProjectBusiness;
